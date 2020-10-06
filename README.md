@@ -13,3 +13,5 @@ Find your way to the door to get to the next level. Use the first loop to draw a
 - E to loop
 
 - R to grab a barrel
+
+https://ldjam.com/events/ludum-dare/47/squaremob
